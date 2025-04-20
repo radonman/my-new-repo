@@ -1,2 +1,2 @@
 # my-new-repo
-Connecting VSCode to Github
+This is where I will have the projects stored that I create as I work through the Coursera training for cybersecurity.
